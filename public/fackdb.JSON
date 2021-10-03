@@ -1,0 +1,66 @@
+[
+    {
+        "id": 1,
+        "name": "Education Programs System",
+        "description": "The term education system generally refers to public schooling, not private schooling, and more commonly to kindergarten through high school programs. Schools or school districts are typically the smallest recognized form of “education system” and countries are the largest.",
+        "students": 25,
+        "fee": "3000 TK / mounts",
+        "img": "http://entiretimes.com/html/school/images/education_img.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Drawing Classes",
+        "description": "Find out more about what the School Games is and the people behind it; ... Sport England to deliver the School Games programme for three days a week.",
+        "students": 30,
+        "fee": "3500 TK / mounts",
+        "img": "http://entiretimes.com/html/school/images/kid_game.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Labs Programs",
+        "description": "Children are never identified in any observations; should photos or footage of children ever be considered for other than in-house educational use, your permission would be requested.",
+        "students": 35,
+        "fee": "2500 TK / mounts",
+        "img": "https://www.educationmattersmag.com.au/wp-content/uploads/2016/06/shutterstock_81455881.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Games Program held in a Week",
+        "description": "Children are never identified in any observations; should photos or footage of children ever be considered for other than in-house educational use, your permission would be requested.",
+        "students": 35,
+        "fee": "2500 TK / mounts",
+        "img": "https://themesfamily.com/tm/akids/assets/img/about/1.jpg"
+    },
+    {
+        "id": 5,
+        "name": "MIDDLE SCHOOLERS COMMIT TO KNOWLEDGE",
+        "description": "Knowledge, truth and honor are at the core of Lausanne's Middle School, a fact highlighted in the KTH Code. Our Middle School students.",
+        "students": 26,
+        "fee": "4000 TK / mounts",
+        "img": "https://images.ctfassets.net/p0qf7j048i0q/E65D2C08188A4FD4A3D04BBA44B31E66/68e5bf21a07fee884b211ab4fb003f65/78773439.jpg?w=1000&h=750&fit=fill&fm=webp"
+    },
+    {
+        "id": 6,
+        "name": "Guitar Classes",
+        "description": "Guitar (Acoustic/Electric) lessons for beginners focus on finger placement, strumming, sight-reading, understanding groove and chord placement. Students will learn to care for their instrument as well as tuning the guitar. From classic rock to current music, guitar lessons are sure to excite your child.",
+        "students": 18,
+        "fee": "3600 TK / mounts",
+        "img": "https://cdn.mos.cms.futurecdn.net/fSWprr9U9fmx5JNgEBu8yd.jpg"
+    },
+    {
+        "id": 7,
+        "name": "LAUSANNE DEFEATS ECS TO REMAIN UNDEFEATED",
+        "description": "The Lausanne Lynx improved to 6-0 Friday night, defeating Evangelical Christian School (ECS) 21-7. After a scoreless first quarter,The Lausanne Lynx improved to 6-0 Friday night, defeating Evangelical Christian School (ECS) 21-7. After a scoreless first quarter,",
+        "students": 27,
+        "fee": "3600 TK / mounts",
+        "img": "https://www.parentmap.com/sites/default/files/styles/1180x660_scaled_cropped/public/2018-06/iStock-901208614.jpg?itok=qMuoY-Uc"
+    },
+    {
+        "id": 8,
+        "name": "School tour",
+        "description": "f you’ve been considering to plan to an educational tour for kids, you’ve come to the right place to get more information. You might wonder if an educational tour is just a marketing tactic, or if it actually proves to be beneficial for kids.",
+        "students": 34,
+        "fee": "600 TK / student",
+        "img": "https://thumbs.dreamstime.com/b/multi-ethnic-group-schoolchildren-school-trip-128588443.jpg"
+    }
+]

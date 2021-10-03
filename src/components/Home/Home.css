@@ -1,0 +1,12 @@
+.bg-img{
+    height: 700px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-image: url("https://i1.wp.com/burnamgray.com/wp-content/uploads/2021/01/cdc-GDokEYnOfnE-unsplash-blueoverlay-copy.jpg?fit=1000%2C666&ssl=1");
+  
+}
+.bg-image{
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-image: url("http://entiretimes.com/html/school/images/inner_title_bg.jpg");
+}
