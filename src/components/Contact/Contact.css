@@ -1,0 +1,15 @@
+.contact-bg{
+    background-image: url("https://thumbs.dreamstime.com/b/contact-us-background-businesses-email-call-message-landing-page-cover-icon-131608659.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 400px;
+}
+.custom-container{
+margin-top: -70px;
+}
+.custom-cart{
+    margin: 6px;
+    border: 1px solid gray;
+    background-color: white;
+    padding: 60px;
+}
